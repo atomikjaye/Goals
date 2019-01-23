@@ -1,45 +1,71 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
+> Personal goals 'n stuff for Jaye! She may stream some of the below, [twitch.tv/atomikjaye](http://www.twitch.tv/atomikjaye).
 
-# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
-1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
+Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
-I'm also doing 5 25-Days Projects in 2017:
+# Overarching Goals for 2019: [Accomplish]
+1. 🖥 Learn more Programming
+2. 🏬 Build up Atomik3 brand
+3. 🎨 Art more
+4. 👗 Sew more for yourself
+5. 📞 Learn 🇨🇳Chinese and 🇳🇱Dutch
+6. 💓 Love and Care for yourself
 
-1. ⭕ Running
-2. 🌀 Writing Letters
-3. ✅ Mentorship
-4. ✅ Dev Doodles
-5. ✅ Meditation (23 consecutive)
+# January 21st 2019
 
-# [Date Normally Goes Here]
+### This Week's Focus: Art Stuffs
+> #### Week 1 Calendar
 
-### This Week's Focus: N/A
+> | Date | Day         | Task                   | Stream?  |
+> | ---- | ----------  | -------------          | :-----:|
+> |  20  | Sunday      | --                     | ⛔ |
+> |  21  | Monday      | Blender Sign           | ✅ |
+> |  22  | Tuesday     | Blender Sign           | ✅ |
+> |  23  | Wednesday   | Web Dev Course         |  -  |
+> |  24  | Thursday    | Design Website AJ      |  -  |
+> |  25  | Friday      | Web Dev Course         |   - |
+> |  26  | Saturday    | Sub Wall Planning Doc  |  -  |
+
 
 ### Things I'll do This Week:
+- [ ] ⚠️ Start Using Personal Goals Guide
+- [ ] 🎨 Finish blender commission.
+- [ ] 🖥 Get a good bulk of my web dev online course done.
+- [ ] 🖥 Plan out Sub Wall Twitch bot/thing on document
+- [ ] 🎨 Design website for AtomikJaye
 
-I haven't done this in a while, since I've moved to my bullet journal in September. However, you can look through the archive for ideas :) It's helped me for about 3 years!
+### Things I will do this Month: [January 2019]
+- [ ] 🖥 Finish Web Dev Course
+- [ ] 🖥 Start Unity course
+- [ ] 🇨🇳 Start Chinese Beginners Class
 
-### Things I'll Do in the Future:
-
+### Running list of ToDos this Year:
+🖥 Programming
+---
+- [ ] Finish Web Dev Course
+- [ ] Finish Game Dev Course
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Build something cool with Arduino
-- [ ] Create my own, or work on helping build a cleaner JS presentation framework
-- [ ] Create a typeface (hand-lettered monospace)
-- [ ] Make an electron app
-- [ ] Build a SlackBot (MyTime)
-- [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] "Walk Me Through JS" Video Series
-- [ ] Toolsday & Web Love stickers
-- [x] Implement offline support for my blog
-- [ ] Build an Offline Web App (Heiroglyph)
-- [ ] Raise money for women in tech organizations
-- [x] Read [Resilient Web Design](https://resilientwebdesign.com/)
+
+🏬 Build up Atomik3 brand
+---
+- [ ] Build Up Inventory
+- [ ] Make List of things you want in Inventory
+- [ ] Figure out Instagram (finish Instagram course)
+
+🎨 Art more
+---
+- [ ] Draw More?
+- [ ] Learn Pixel Art
+
+👗 Sew/Craft more for yourself
+---
+- [ ] Plan out what you would like to sew
+- [ ] Make Schedule of when you'll sew it
+
+
+
+📞 Learn 🇨🇳Chinese and 🇳🇱Dutch
+---
+- [ ] Start and Finish Chinese Beginners Class
