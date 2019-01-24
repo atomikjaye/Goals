@@ -23,16 +23,18 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  20  | Sunday      | --                     | ⛔ |
 > |  21  | Monday      | Blender Sign           | ✅ |
 > |  22  | Tuesday     | Blender Sign           | ✅ |
-> |  23  | Wednesday   | Web Dev Course         |  -  |
+> |  23  | Wednesday   | Web Dev Course         | ⛔ |
 > |  24  | Thursday    | Design Website AJ      |  -  |
 > |  25  | Friday      | Web Dev Course         |   - |
 > |  26  | Saturday    | Sub Wall Planning Doc  |  -  |
 
 
 ### Things I'll do This Week:
-- [ ] ⚠️ Start Using Personal Goals Guide
+- [x] ⚠️ Start Using Personal Goals Guide
 - [ ] 🎨 Finish blender commission.
-- [ ] 🖥 Get a good bulk of my web dev online course done.
+- [ ] 🖥 Finish Sections 31 of Web Dev Class.
+- [ ] 🖥 Finish Sections 32 of Web Dev Class.
+- [ ] 🖥 Finish Sections 33 of Web Dev Class.
 - [ ] 🖥 Plan out Sub Wall Twitch bot/thing on document
 - [ ] 🎨 Design website for AtomikJaye
 
