@@ -24,7 +24,7 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  21  | Monday      | Blender Sign           | ✅ |
 > |  22  | Tuesday     | Blender Sign           | ✅ |
 > |  23  | Wednesday   | Web Dev Course         | ⛔ |
-> |  24  | Thursday    | Design Website AJ      |  -  |
+> |  24  | Thursday    | Design Website AJ      | ✅  |
 > |  25  | Friday      | Web Dev Course         |   - |
 > |  26  | Saturday    | Sub Wall Planning Doc  |  -  |
 
