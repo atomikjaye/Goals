@@ -20,7 +20,7 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
 > | Date | Day         | Task                   | Stream?  |
 > | ---- | ----------  | -------------          | :-----:|
-> |  27  | Sunday      | --                     | ❌ |
+> |  27  | Sunday      | Finish 31 Web Dev                    | ❌ |
 > |  28  | Monday      |  Finish Blender Commission         | ✅ |
 > |  29  | Tuesday     | AtomikJaye Website        | ✅ |
 > |  30  | Wednesday   |   Webdev Course or Sew      | ❌ |
@@ -35,7 +35,7 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 - [ ] 🖥 Finish Sections 32 of Web Dev Class.
 - [ ] 🖥 Finish Sections 33 of Web Dev Class.
 - [ ] 🖥 Plan out Sub Wall Twitch bot/thing on document
-- [x ] 🎨 Design website for AtomikJaye
+- [x] 🎨 Design website for AtomikJaye
 - [ ] 👗 Start a sewing project
 
 ### Things I will do this Month: [January 2019]
