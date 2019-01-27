@@ -12,3 +12,16 @@ Today I managed to almost finish section 31 of my web dev course. We are learnin
 I got laid off today. I felt okay at first, but now I am a bit disappointed. But on the bright side, I get to do the things I want to do now. I can focus more on programming and hopefully travel a bit! Maybe it's a blessing in disguise?
 
 > I'm grateful for all I've learned at my previous job, time to apply it to my personal projects! ☔🌈
+
+
+01/25/2019
+---
+It's Friday! Day one of lay off. I'm feeling okay, still in shock really. Some co-workers messaged me which was really nice, I can imagine they are in shock as much as we are.
+
+> I'm grateful for meeting all the wonderful people at my previous job. 😊
+
+01/26/2019
+---
+I learned how to corn row, corn row with hair, and do an okay box-braid all within hours. I'm excited... 'bout to be kyoot out here!
+
+> Learning how to FINALLY do some basic hair techniques is my happy moment for today. I can't wait!
