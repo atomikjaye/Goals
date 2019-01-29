@@ -25,3 +25,15 @@ It's Friday! Day one of lay off. I'm feeling okay, still in shock really. Some c
 I learned how to corn row, corn row with hair, and do an okay box-braid all within hours. I'm excited... 'bout to be kyoot out here!
 
 > Learning how to FINALLY do some basic hair techniques is my happy moment for today. I can't wait!
+
+01/27/2019
+---
+Hair came out blegh, but I started! I also finished section 31 of my Web Dev course. I even went back and did the exercise from scratch, well sort of. I was super proud. I mage a functional blogging app! Woot!
+
+> First cool-ish programming projects
+
+01/28/2010
+---
+I finished section 32! I'm excited because I am keeping up with these lessons. I hope to finish this course by the end of this week and start on my real project!
+
+> Making my way through these lessons is making me happy ^.^

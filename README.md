@@ -18,12 +18,12 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 ### This Week's Focus: Art Stuffs
 > #### Week 1 Calendar
 
-> | Date | Day         | Task                   | Stream?  |
-> | ---- | ----------  | -------------          | :-----:|
-> |  27  | Sunday      | Finish 31 Web Dev                    | ❌ |
-> |  28  | Monday      |  Finish Blender Commission         | ✅ |
-> |  29  | Tuesday     | AtomikJaye Website        | ✅ |
-> |  30  | Wednesday   |   Webdev Course or Sew      | ❌ |
+> | Date | Day         | Task            | Stream?  |
+> | ---- | ----------  | -------------     | :-----:|
+> |  27  | Sunday      | Finish 31 Web Dev   | ❌ |
+> |  28  | Monday      |  Finish Blender Commission  | ✅ |
+> |  29  | Tuesday     | AtomikJaye Website  | ✅ |
+> |  30  | Wednesday   |   Webdev Course or Sew  | ❌ |
 > |  31  | Thursday    |  AtomikJaye Website   | ✅  |
 > |  1  | Friday      |  ???   |   ❌ |
 > |  2  | Saturday    |  ??? |  ❌  |
@@ -31,8 +31,8 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
 ### Things I'll do This Week:
 - [ ] 🎨 Finish blender commission.
-- [x] 🖥 Finish Sections 31 of Web Dev Class. **1-27-2019**
-- [ ] 🖥 Finish Sections 32 of Web Dev Class.
+- [x] 🖥 Finish Sections 31 of Web Dev Class. **01-27-2019**
+- [x] 🖥 Finish Sections 32 of Web Dev Class. **01-28-2019**
 - [ ] 🖥 Finish Sections 33 of Web Dev Class.
 - [ ] 🖥 Plan out Sub Wall Twitch bot/thing on document
 - [x] 🎨 Design website for AtomikJaye
