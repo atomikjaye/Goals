@@ -32,8 +32,38 @@ Hair came out blegh, but I started! I also finished section 31 of my Web Dev cou
 
 > First cool-ish programming projects
 
-01/28/2010
+01/28/2019
 ---
 I finished section 32! I'm excited because I am keeping up with these lessons. I hope to finish this course by the end of this week and start on my real project!
 
 > Making my way through these lessons is making me happy ^.^
+
+01/29/2019
+---
+I'm currently on Section 34! I'm ahead of schedule! I'm still shooting this finish this course by the end of the week. Today was great, I streamed for a pretty long time, but I learned so much! I'm not starting to think about going back to school for Software Engineering. I'm still thinking about trying to achieve this by learning from various parts of the internets. I found this article, it's inspiring: https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847 . They went super hardcore though. Given the variety of things I like to do. I do not think I would be able to achieve this quite so soon. But at least I have a somewhat outlined plan.
+
+> Finding good advice is awesome, contemplating going back to school is exciting!
+
+
+01/30/2019
+---
+Still getting though this course! I really think I'll finish it by the end of this week!
+
+> Getting things done!
+
+01/31/2019
+---
+I AM ONLY 2 sections away!!!
+
+02/01/2019
+---
+I can't believe it's February! I've declared my web course done today.. even though I need to do the very last Javascript Section. But aside from that, I learned what I wanted to finish. I thought about my project that I'd like to finish. It may be a hassle, but I think its doable. I also had an awesome stream and made a pretty cool piece of "ok" art! I hope to make stickers from them! I also inspired someone to open up an IG account! I'm really happy I inspired them to post their work and get out there! Now, I must listen to my own advice lol!
+
+> Finally got some art done! I really can't wait to post it on my art instagram.
+
+
+02/02/2019
+---
+I didn't get to finish my "start a sewing project" item on my TODO list. But I hope to plan it a bit... being that it is now 10:12. I HAVE TIME! We went to the shore today, which was fun ^.^
+
+> Taking a break and doing a day trip was really fun. I'm also really thinking about going back to school and travelling more.

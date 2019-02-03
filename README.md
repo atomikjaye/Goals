@@ -24,19 +24,21 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  28  | Monday      |  Finish Blender Commission  | ✅ |
 > |  29  | Tuesday     | AtomikJaye Website  | ✅ |
 > |  30  | Wednesday   |   Webdev Course or Sew  | ❌ |
-> |  31  | Thursday    |  AtomikJaye Website   | ✅  |
+> |  31  | Thursday    |  ~~AtomikJaye Website~~ ART YAY   | ✅  |
 > |  1  | Friday      |  ???   |   ❌ |
 > |  2  | Saturday    |  ??? |  ❌  |
 
 
 ### Things I'll do This Week:
-- [ ] 🎨 Finish blender commission.
+- [x] 🎨 Finish blender commission.**01-28-2019**
 - [x] 🖥 Finish Sections 31 of Web Dev Class. **01-27-2019**
 - [x] 🖥 Finish Sections 32 of Web Dev Class. **01-28-2019**
-- [ ] 🖥 Finish Sections 33 of Web Dev Class.
+- [x] 🖥 Finish Sections 33 of Web Dev Class. **01-29-2019**
 - [ ] 🖥 Plan out Sub Wall Twitch bot/thing on document
 - [x] 🎨 Design website for AtomikJaye
 - [ ] 👗 Start a sewing project
+
+##Additional Things I've done
 
 ### Things I will do this Month: [January 2019]
 - [ ] 🖥 Finish Web Dev Course
