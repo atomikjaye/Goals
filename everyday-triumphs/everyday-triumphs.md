@@ -67,3 +67,18 @@ I can't believe it's February! I've declared my web course done today.. even tho
 I didn't get to finish my "start a sewing project" item on my TODO list. But I hope to plan it a bit... being that it is now 10:12. I HAVE TIME! We went to the shore today, which was fun ^.^
 
 > Taking a break and doing a day trip was really fun. I'm also really thinking about going back to school and travelling more.
+
+02/03/2019
+---
+Had a good stream today, Started my first dev project! At the end of my stream, unfortunately, I didn't get anything working. I am a bit overwhelmed with how many things I need to learn! I am also interested in challenging myself to read more. I also would like to watch more pop-culturey things... it amazes me how much I do not know.
+
+> Starting my first dev project was a bit bumpy, but I hope to look back at this and be proud that I finished it.
+
+02/04/2019
+---
+Went to the gym today! I felt tired ALL DAY after. I really didn't get much done, buttt I started a pixel art class, and found a cool Computer Science Degree program completely free online. To be honest, it really overwhelms me. I'm quite discouraged. A part of me feels like I can't learn all this, the course takes 2 years to complete... if I'm not my normal lazy self. It is a lot, I also feel like I am not smart enough to complete this. I know these are just excuses. I really want to attempt these courses... so I am not taking the intro to CS course. Fingers crossed!  Also... I'm totally not re-reading these, apologies for errors.
+
+> Went to the gym for the first time in a few months!
+
+02/05/3029
+---
