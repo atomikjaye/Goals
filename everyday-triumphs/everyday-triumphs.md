@@ -40,7 +40,7 @@ I finished section 32! I'm excited because I am keeping up with these lessons. I
 
 01/29/2019
 ---
-I'm currently on Section 34! I'm ahead of schedule! I'm still shooting this finish this course by the end of the week. Today was great, I streamed for a pretty long time, but I learned so much! I'm not starting to think about going back to school for Software Engineering. I'm still thinking about trying to achieve this by learning from various parts of the internets. I found this article, it's inspiring: https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847 . They went super hardcore though. Given the variety of things I like to do. I do not think I would be able to achieve this quite so soon. But at least I have a somewhat outlined plan.
+I'm currently on Section 34! I'm ahead of schedule! I'm still shooting this finish this course by the end of the week. Today was great, I streamed for a pretty long time, but I learned so much! I'm not starting to think about going back to school for Software Engineering. I'm still thinking about trying to achieve this by learning from various parts of the internets. I found this article, it's inspiring: [From Newbie to Software engineer in 9 months](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847). They went super hardcore though. Given the variety of things I like to do. I do not think I would be able to achieve this quite so soon. But at least I have a somewhat outlined plan.
 
 > Finding good advice is awesome, contemplating going back to school is exciting!
 
@@ -76,9 +76,16 @@ Had a good stream today, Started my first dev project! At the end of my stream, 
 
 02/04/2019
 ---
-Went to the gym today! I felt tired ALL DAY after. I really didn't get much done, buttt I started a pixel art class, and found a cool Computer Science Degree program completely free online. To be honest, it really overwhelms me. I'm quite discouraged. A part of me feels like I can't learn all this, the course takes 2 years to complete... if I'm not my normal lazy self. It is a lot, I also feel like I am not smart enough to complete this. I know these are just excuses. I really want to attempt these courses... so I am not taking the intro to CS course. Fingers crossed!  Also... I'm totally not re-reading these, apologies for errors.
+Went to the gym today! I felt tired ALL DAY after. I really didn't get much done, buttt I started a pixel art class, and found a cool Computer Science Degree program completely free online. To be honest, it really overwhelms me. I'm quite discouraged. A part of me feels like I can't learn all this, the course takes 2 years to complete... if I'm not my normal lazy self. It is a lot, I also feel like I am not smart enough to complete this. I know these are just excuses. I really want to attempt these courses... so I am now taking the intro to CS course. Fingers crossed!  Also... I'm totally not re-reading these, apologies for errors.
 
 > Went to the gym for the first time in a few months!
 
-02/05/3029
+02/05/2019
 ---
+Had an okay stream, I got to publish my landing page for my website today! I'm pretty proud of it.. even though the code is a bit of a mess
+
+> [www.atomikjaye.com](http://www.atomikjaye.com) is live!
+
+02/06/2019
+---
+Learning web socketsssss
