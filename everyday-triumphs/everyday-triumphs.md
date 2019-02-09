@@ -1,5 +1,5 @@
 # A List of small accomplishments/Daily Gratitudes... other sentimental junk.
-
+### January 2019
 01/23/2019
 ---
 Today I managed to almost finish section 31 of my web dev course. We are learning about RESTful Routes. I'm super excited that I was able to build a mini blogging platform. I do need to do a bit more research on some of the code to fully understand it. Otherwise, I'm really proud! I'm also really wanting to get into pixel art. I blame all the cool pixel artists on twitch!
@@ -55,6 +55,8 @@ Still getting though this course! I really think I'll finish it by the end of th
 ---
 I AM ONLY 2 sections away!!!
 
+### February 2019
+
 02/01/2019
 ---
 I can't believe it's February! I've declared my web course done today.. even though I need to do the very last Javascript Section. But aside from that, I learned what I wanted to finish. I thought about my project that I'd like to finish. It may be a hassle, but I think its doable. I also had an awesome stream and made a pretty cool piece of "ok" art! I hope to make stickers from them! I also inspired someone to open up an IG account! I'm really happy I inspired them to post their work and get out there! Now, I must listen to my own advice lol!
@@ -88,4 +90,18 @@ Had an okay stream, I got to publish my landing page for my website today! I'm p
 
 02/06/2019
 ---
-Learning web socketsssss
+Learning web socketsssss, I GOT A PONG!!! I also got to see some info the example repo requested and figured out how to print it on the html page. Unfortunately, I can't currently figure out how to get the info I was actually going for. But there is tomorrow.
+
+> Successfully connected to Twitch server using web sockets!
+
+02/07/2019
+---
+Thanks to the wonderful people on twitch, I was able to take fake info and print it on my page!!! Progress! I think I may need to stop relying so heavily on the wonderful programers though, I need to learn more AHHH! But I'm so excited!
+
+> Dynamic pages FTW!
+
+02/08/2019
+---
+I did nothing, I spelt most of the day. My body needed rest. NO REAGRETS.
+
+> SLEEP IS AWESOME! 💤😴🛌🏾

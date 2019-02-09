@@ -24,18 +24,20 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  4  | Monday      |  Started Pixel Art Class | ❌ |
 > |  5  | Tuesday     | Published Website  | ✅ |
 > |  6  | Wednesday   |  learn about web sockets | ❌ |
-> |  7  | Thursday    |    | ✅  |
+> |  7  | Thursday    |   SUB BOT  | ✅  |
 > |  8  | Friday      |  ??? |   ❌ |
 > |  9  | Saturday    |  ??? |  ❌  |
 
 
 ### Things I'll do This Week:
 - [x] 🖥 Published http://www.atomikjaye.com landing page **02-05-2019**
-- [ ] 🖥 Get websockets working and grabbing info from Twitch's Pub Sub
+- [x] 🖥 Get websockets working and grabbing info from Twitch's Pub Sub
 - [ ] 👗 Start a sewing project
 - [ ] Think of more goals for the new year
+- [ ] 3D Clothing Idea/Gachas
 
 ##Additional Things I've done
+- [x] I went to the gym twice this week.
 
 ### Things I will do this Month: [February 2019]
 - [ ] 🖥 Finish Web Dev Course
