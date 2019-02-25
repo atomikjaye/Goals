@@ -15,8 +15,7 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
 # February 24th 2019
 
-
-### This Week's Focus: Discipline
+### This Week's Focus: Still... "Discipline"
 > #### Week 4 Calendar
 
 > | Date | Day         | Task            | Stream?  |
@@ -24,12 +23,12 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  24  | Sunday      | Think about plans and goals | ❌ |
 > |  25  | Monday      | Art stream | ✅ |
 > |  26  | Tuesday     | Learn Programming with @MechJack | ✅ |
-> |  27  | Wednesday   | More Art Stuffs* | ✅ |
-> |  28  | Thursday    | More Programming stuffs* | ✅ |
-> |  1  | Friday      |  | ❌ |
-> |  2  | Saturday    |  | ❌ |
+> |  27  | Wednesday   | More Art Stuffs** | ✅ |
+> |  28  | Thursday    | More Programming stuffs** | ✅ |
+> |  1  | Friday      | ??? | ❌ |
+> |  2  | Saturday    | ??? | ❌ |
 
->> * Could possibly switch days
+> ** Could possibly switch days
 
 ### Things I'll do This Week:
 - [x] [ ] [ ] 💪🏾 Go to the gym 3 days this week
