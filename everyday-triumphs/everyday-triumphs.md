@@ -105,3 +105,31 @@ Thanks to the wonderful people on twitch, I was able to take fake info and print
 I did nothing, I spelt most of the day. My body needed rest. NO REAGRETS.
 
 > SLEEP IS AWESOME! 💤😴🛌🏾
+
+02/09/2019 - 02/13/2019
+---
+I don't even know what I did the past few days. Nothing worth mentioning really. Visiting my sister kinda threw me off my game. I will I will be taking this week off goals, and re-start again next week! I did read some material on computer science, it was interesting to understand where certain languages come from ^.^
+
+> Sometimes breaks are a-okay
+
+02/14/2019 - 02/23/2019
+---
+Time flies when you get off your wagon. I did some things. That's all I remember from this time period.
+
+> I'm still alive.. that's good right? :)
+
+02/24/2019
+---
+Spent all day trying to map out goals. It was a bit rough, I wanted to ask for input from various people, but I felt I would annoy them with my problems. I tend to always seem lost and ask the same questions every time. Mostly because I want to do so much. Luckily, I think I have a plan... somewhat.
+
+Programming is taking priority in terms of my time. I really don't want to end up in a job I don't want again. I still want to research and see if this field is for me however. I want to be sure.
+
+> If you don't plan to succeed... you plan to fail... so they tell me.
+
+02/25/2019
+---
+I went to the unemployment office today. To be blunt, it was a total waste of time... sprinkled in with some info I hope to pursue. Otherwise, the actual class was not really informative as it basically was the presenter's autobiography of their career path. Which was interesting I guess, but not useful.
+
+Anywho, I went to the gym afterwards!
+
+It's still the beginning of the day(-ish), so I hope to accomplish more things!
