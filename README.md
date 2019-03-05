@@ -13,36 +13,33 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 5. 📞 Learn 🇨🇳Chinese and 🇳🇱Dutch
 6. 💓 Love and Care for yourself
 
-# February 24th 2019
+# March 3rd 2019
 
-### This Week's Focus: Still... "Discipline"
-> #### Week 4 Calendar
+### This Week's Focus: Still... "Discipline" [I'll eventually obtain it lol]
+> #### Week 1 Calendar
 
 > | Date | Day         | Task            | Stream?  |
 > | ---- | ----------  | -------------     | :-----:|
-> |  24  | Sunday      | Think about plans and goals | ❌ |
-> |  25  | Monday      | Art stream | ✅ |
-> |  26  | Tuesday     | Learn Programming with @MechJack | ✅ |
-> |  27  | Wednesday   | More Art Stuffs** | ✅ |
-> |  28  | Thursday    | ~~More Programming stuffs**~~ FAIL!| ❌|
-> |  1  | Friday      | ??? | ❌ |
-> |  2  | Saturday    | ??? | ❌ |
+> |  3  | Sunday      | ABSOLUTELY NOTHING and it was awesome | ❌ |
+> |  4  | Monday      | Art stream | ✅ |
+> |  5  | Tuesday     | Learn Programming with @MechJack | - |
+> |  6  | Wednesday   | Off Day? | - |
+> |  7  | Thursday    | ~~More Programming stuffs**~~ FAIL!| -|
+> |  8  | Friday      | ??? | - |
+> |  9  | Saturday    | ??? | - |
 
-> ** Could possibly switch days
 
 ### Things I'll do This Week:
-- [x] [x] [x] 💪🏾 Go to the gym 3 days this week
-- [x] 🖥 Learn about Client/Server side... stuff?
-- [ ] 🖥 Apply knowledge to Sub Wall Bot
-- [x] SL 3d Modeling Stuff
-- [x] 💓Take care of myself - Get hair done
-- [ ] Think of more goals for the new year
-- [x] Research Javascript Promises
-- [ ] Research Fetch API
+- [ ] [ ] [ ] 💪🏾 Go to the gym 3 days this week
+- [ ] Work on Atomikjaye.com (get design finalized)
+- [ ] 💓Take care of myself - Get hair done
+- [ ] Figure out if React or Vue is best for Atomik SubWall
+- [ ] Finish 2 problem sets on codewars.com
+- [ ] Think about starting a blog about new things you've learned
 
 
-### Things I will do this Month: [February 2019]
-- [ ] 🖥 Finish or get good portion of Sub Wall Bot done
+### Things I will do this Month: [March 2019]
 - [ ] 👗 Finish a sewing project
-- [x] 🏬 Build up Atomik3's inventory
-- [x] Gym more
+- [ ] 🏬 Build up Atomik3's inventory
+- [ ] Gym more
+- [ ] Start a new Udemy Class (topic TBD)
