@@ -24,7 +24,7 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 > |  4  | Monday      | Art stream | ✅ |
 > |  5  | Tuesday     | Learn Programming with @MechJack | - |
 > |  6  | Wednesday   | Off Day? | - |
-> |  7  | Thursday    | ~~More Programming stuffs**~~ FAIL!| -|
+> |  7  | Thursday    | Programming | -|
 > |  8  | Friday      | ??? | - |
 > |  9  | Saturday    | ??? | - |
 
