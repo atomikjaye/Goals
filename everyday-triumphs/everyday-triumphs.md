@@ -133,3 +133,30 @@ I went to the unemployment office today. To be blunt, it was a total waste of ti
 Anywho, I went to the gym afterwards!
 
 It's still the beginning of the day(-ish), so I hope to accomplish more things!
+
+> More determined to get a job, I never want to go to Unemployment EVER again. 🤷🏾‍♀️
+
+02/26/2019
+---
+Learned a lot about Javascript APIs as well as client vs server side rendering. For my subwall project we (me and @MechJack) decided for my project.. in order to be scalable, client side might be a better way to go. I now need to learn a bit about Vue or React and see what is best! YAY LEARNING!
+
+I also went to the gym
+
+> I learned a thing
+
+02/27/2019
+---
+I realize I do waste entirely too much time. Luckily I got my act together near the end of the day. It was my "Art" day. SO I drew a nice self portrait that I am okay with sharing!
+
+Went to the gym for some cardio.
+> Hit my 3 day a week gym goal! woot! 💪🏾
+
+02/28/2019 - 03/03/2019
+---
+Didn't feel pretty productive, but I did take a trip this weekend and it was amazing!
+
+03/04/2019
+---
+Got a lot of small things done! I was a bit disappointed, but I really did complete a lot of tasks. I felt pretty meh going into stream today, but I stuck to it. I finally developed a schedule, and finally updated my panel designs so they don't make you as crazy to read!
+
+I honestly, can't wait to program and work on my project tomorrow!
