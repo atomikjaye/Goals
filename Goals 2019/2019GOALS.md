@@ -26,3 +26,7 @@
 📞 Learn 🇨🇳Chinese and 🇳🇱Dutch
 ---
 - [ ] Start and Finish Chinese Beginners Class
+
+
+## Overview
+Unforuntately I fell off sometime around March D:. But I'm going to try again... even though it's the middle of 2020!
