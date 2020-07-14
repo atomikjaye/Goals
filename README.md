@@ -29,9 +29,9 @@ Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
 ### Things I'll do This Week:
 - [x] [x] [ ] 💪🏾 Run
-- [] Make digital downloads for 'mock patreon'
-- [] Draw stylized portrait
-- [] Film Youtube Video
+- [ ] Make digital downloads for 'mock patreon'
+- [ ] Draw stylized portrait
+- [ ] Film Youtube Video
 
 ### Things I will do this Month: [July 2020]
 - [ ] Publish a Youtube Video
