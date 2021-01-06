@@ -1,3 +1,5 @@
+# January 6th 2021 | Week 2
+
 Personal Goals
 ==============
 
@@ -5,33 +7,30 @@ Personal Goals
 
 Forked from Una, read her guide [here](http://una.im/personal-goals-guide).
 
-# Overarching Goals for 2020: [Accomplish]
-1. 🖥 Build with programming
-2. 🏬 More Youtube Consistency
-3. 🎨 Art more
-4. 💓 Run More
+January 2021
+=========
+| S  	| M  	| T  	| W  	| Th 	| F    	| Sa 	|
+|----	|----	|----	|----	|----	|------	|----	|
+|     |     |     |     |     |  1  |    2|
+**|3|4|5|6|7|8|9|**
+|10|11|12|13|14|15|16|
+|17|18|19|20|21|22|23|
+|24|25|26|27|28|29|30|
+31|
+-----
 
-# July 14th 2020 | July Week 2
+> #### Week 2 Tasks (• means scheduled, 🟢 means done/completed, 🟠 means started, ✖ means cancelled)
+
+> |  S  |  M  |  T  |  W  | Th  |  F  |  S  | Task |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: |  :-: |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Web Dev Course  |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Portfolio Planning  |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Post on Instagram  |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Work on Collab   |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  3D Print    |
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Stream | 
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Update Stream | 
+> |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  Work on Jan Shop Release | 
 
 
-> #### Week 1 Calendar
-
-> | Date | Day         | Task           | Stream?| Run?  | Draw  |
-> | ---- | ----------  | -------------  | :-----:|:-----:|:-----:|
-> |  11  | Sunday      | x              | ❌ | 🏃🏾‍♀️ | 🎨 |
-> |  13  | Monday      | x              | ✅ | 🏃🏾‍♀️ | 🎨 |
-> |  14  | Tuesday     | Film Video     | -   | 🏃🏾‍♀️ | - |
-> |  15  | Wednesday   | ???            | -   | - | - |
-> |  16  | Thursday    | ???            | -   | - | - |
-> |  17  | Friday      | ???            | -   | - | - |
-> |  18  | Saturday    | ???            | -   | - | - |
-
-
-### Things I'll do This Week:
-- [x] [x] [ ] 💪🏾 Run
-- [ ] Make digital downloads for 'mock patreon'
-- [ ] Draw stylized portrait
-- [ ] Film Youtube Video
-
-### Things I will do this Month: [July 2020]
-- [ ] Publish a Youtube Video
+### Things I will do later (jot tasks you think of during the week)
