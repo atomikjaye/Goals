@@ -3,7 +3,7 @@
 ----
 
 **Learn**
-- [] Complete [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
+- [ ] Complete [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
 - [] Complete [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 - [] Complete [Google AI Professional Certificate](https://www.coursera.org/professional-certificates/google-ai)
 - [] Complete 10 Arduino Projects (small) [][][][][][][][][][]
