@@ -10,7 +10,7 @@ List of [Goals for 2026](Goals%202026/goals2026.md)
 |--------|--------|--------|--------|--------|---------|--------|
 | ~~1~~      | ~~2~~      | ~~3~~      | ~~4~~      | ~~5~~      | ~~6~~       | ~~7~~      |
 | ~~8~~      | ~~9~~      | ~~10~~     | ~~11~~    | ~~12~~     | ~~13~~      | ~~14~~     |
-| 15     | 16     | 17     | 18     | 19     | 20      | 21  |
+| ~~15~~     | ~~16~~     | 17     | 18     | 19     | 20      | 21  |
 | 22     | 23     | 24     | 25     | 26     | 27      | 28     |
 | 29     | 30     | 31     |        |        |         |        |
 -----
@@ -20,11 +20,11 @@ List of [Goals for 2026](Goals%202026/goals2026.md)
 
 > |  S  |  M  |  T  |  W  | Th  |  F  |  S  | Task |
 > | :-: | :-: | :-: | :-: | :-: | :-: | :-: |  :-: |
-> | 🟢 |  -  |  -  |  -  |  -  |  -  |  -  |  XR Course  |
+> | 🟢 |  🟢  |  -  |  -  |  -  |  -  |  -  |  XR Course  |
 > | 🟢 |  -  |  -  |  -  |  -  |  -  |  -  |  Arduino  |
 > | 🟢 |  -  |  -  |  -  |  -  |  -  |  -  |  Youtube Work  |
 > |  - |  -  |  -  |  -  |  -  |  -  |  -  |  Creative Work   |
-> | 🟢 |  -  |  -  |  -  |  -  |  -  |  -  |  Read   |
+> | 🟢 |  🟢  |  -  |  -  |  -  |  -  |  -  |  Read   |
 
 ## Weekly Log
 #### Sunday 15
@@ -34,6 +34,8 @@ List of [Goals for 2026](Goals%202026/goals2026.md)
 - Uploaded Youtube Video and scheduled it
 - Worked on my XR Class! Got bored tho ended early!
 #### Monday 16
+- I completed the first course in my XR Specialization!!! 2 more to go!
+- My youtube video was posted! I lost one sub LUL! but its out there! Woot!
 #### Tuesday 17
 #### Wednesday 18
 #### Thursday 19
