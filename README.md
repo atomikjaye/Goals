@@ -8,6 +8,7 @@ View Current Progress [here](./Goals%202026)
 - [ ] Complete [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
 - [ ] Complete [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 - [x] Complete [Google AI Professional Certificate](https://www.coursera.org/professional-certificates/google-ai)
+- [ ] Three.js - [Three.js https://threejs-journey.com/]
 - [ ] Complete 10 Arduino Projects (small) 
 - [ ] Learn a language (Chinese or Dutch?)
 
